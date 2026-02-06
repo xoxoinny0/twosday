@@ -1,4 +1,4 @@
-export const IMAGE_URL = "https://images.twosday.live";
+export const IMAGE_URL = "https://blog-images.mini-lab.net";
 export const ACCEPTED_IMAGE_MIME_TYPES = [
   "image/jpeg",
   "image/png",
